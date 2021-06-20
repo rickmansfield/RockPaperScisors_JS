@@ -60,7 +60,7 @@ The player that wins the majority of the three rounds will be the winner of the 
 
 ## Tip(s) for use
 
-so you will need to use the most up-to-date version of Chrome to ensure your code runs correctly. If your
+You will need to use the most up-to-date version of Chrome to ensure your code runs correctly. If your
 version of Chrome is too old, correctly-written code may still not run as expected.
 
 ## Testing
